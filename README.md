@@ -27,6 +27,6 @@
 
 
 
-## 6. Referrences
+## 6. References
 
 
